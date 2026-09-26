@@ -1,6 +1,3 @@
-Here is the complete `README.md` file contents ready to copy directly into your project:
-
-```markdown
 # 🎰 Classic 3-Reel Slot Machine Game
 
 A responsive 2D slot machine game developed in Unity (Unity 6 / C#) featuring decoupled RNG logic, sequential reel spinning animations, dynamic UI layout anchoring, and a win celebration state.
